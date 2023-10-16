@@ -16,7 +16,8 @@ You can run the provided script and print out pin_result, geo_result and user_re
 To start off, I signed into the AWS console
 <br>
   
-![Screenshot 2023-10-16 144027](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/a9ab614d-279f-4623-82f3-f6fc56c63b4b)
+![smallerboi](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/836785d0-28de-483e-9e35-c8c597a0ce62)
+
 
 Created a key pair file locally to allow me to connect to my EC2 instance. Found the specific key pair associated to my EC2 instance, in the parameter store section on my AWS account, and under the "Value" field selected "show".
 <br>
