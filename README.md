@@ -13,7 +13,7 @@ You can run the provided script and print out pin_result, geo_result and user_re
 
 <br>
 
-## <ins> Connecting to the EC2 Client </ins> <br>
+## <ins> Connecting to the EC2 Client </ins>
 To start off, I signed into the AWS console
 <br>
   
