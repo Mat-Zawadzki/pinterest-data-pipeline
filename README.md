@@ -1,7 +1,7 @@
-# Pinterest Data Pipeline
+# <ins> Pinterest Data Pipeline </ins>
 [DESCRIPTION]
 
-## <ins> Infrastructure </ins>
+## Infrastructure
 Firstly, I got my hands on some infrastructure similar to that which I would be working with were I a data engineer working at Pinterest.
 
 Inside I found user_posting_emulation.py, that contains the login credentials for a RDS database, which contains three tables with data resembling data received by the Pinterest API when a POST request is made by a user uploading data to Pinterest:
@@ -12,7 +12,7 @@ You can run the provided script and print out pin_result, geo_result and user_re
 
 <br>
 
-## <ins> Connecting to the EC2 Client </ins>
+## Connecting to the EC2 Client
 To start off, I signed into the AWS console
 <br>
   
