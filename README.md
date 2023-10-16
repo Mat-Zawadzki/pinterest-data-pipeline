@@ -18,9 +18,9 @@ To start off, I signed into the AWS console
   
 ![Screenshot 2023-10-16 144027](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/a9ab614d-279f-4623-82f3-f6fc56c63b4b)
 
+Created a key pair file locally to allow me to connect to my EC2 instance. Found the specific key pair associated to my EC2 instance, in the parameter store section on my AWS account, and under the "Value" field selected "show".
 <br>
 
-- Created a key pair file locally to allow me to connect to my EC2 instance. Found the specific key pair associated to my EC2 instance, in the parameter store section on my AWS account, and under the "Value" field selected "show".
 ![editedout1](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/47f4644d-f3ee-4df6-8b1a-685b12798816)
 
 
