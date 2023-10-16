@@ -19,11 +19,12 @@ To start off, I signed into the AWS console
 ![smallerboi](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/836785d0-28de-483e-9e35-c8c597a0ce62)
 
 
-Created a key pair file locally to allow me to connect to my EC2 instance. Found the specific key pair associated to my EC2 instance, in the parameter store section on my AWS account, and under the "Value" field selected "show".
+I then created a key pair file locally to allow me to connect to my EC2 instance. Using the KeyPairId received in the zip folder, I found the specific key pair associated to my EC2 instance. In the parameter store section on my AWS account, under the "Value" field I selected "show" to copy the content of key pair (including the BEGIN and END header) and pasted it in the .pem file in VSCode..
 <br>
 
 
 ![editedout1](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/47f4644d-f3ee-4df6-8b1a-685b12798816)
+![editedboi3](https://github.com/Mat-Zawadzki/pinterest-data-pipeline/assets/114954374/35ade65e-db89-4975-930f-1615b7821fe9)
 
 
 Navigate to the EC2 console and identify the instance with your unique UserId.Select this instance, and under the Details section find the Key pair name and make a note of this. Save the previously created file in the VSCode using the following format: Key pair name.pem.
