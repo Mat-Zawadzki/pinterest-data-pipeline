@@ -28,3 +28,7 @@ I then created a key pair file locally to allow me to connect to my EC2 instance
 
 
 Navigate to the EC2 console and identify the instance with your unique UserId.Select this instance, and under the Details section find the Key pair name and make a note of this. Save the previously created file in the VSCode using the following format: Key pair name.pem.
+
+
+
+/kafka-rest-start /home/ec2-user/confluent-7.2.0/etc/kafka-rest/kafka-rest.properties
