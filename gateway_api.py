@@ -2,9 +2,9 @@
 import requests
 import json
 
-example_df = {"index": 1, "name": "Maya", "age": 25, "role": "engineer"}
+example_df = {"index": 2, "name": "Maya", "age": 25, "role": "engineer"}
 
-invoke_url = "https://qsmuml0e2h.execute-api.us-east-1.amazonaws.com/test/12570a5c330b"
+invoke_url = "https://qsmuml0e2h.execute-api.us-east-1.amazonaws.com/test/topics/12570a5c330b.geo"
 
 #To send JSON messages you need to follow this structure
 payload = json.dumps({
