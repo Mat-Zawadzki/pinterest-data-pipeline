@@ -33,3 +33,6 @@ Navigate to the EC2 console and identify the instance with your unique UserId.Se
 Using the command
 ./kafka-rest-start /home/ec2-user/confluent-7.2.0/etc/kafka-rest/kafka-rest.properties
 I finished setting up the 
+
+
+don't forget the port number in the gateway api when you deploy a test stage like I did !
