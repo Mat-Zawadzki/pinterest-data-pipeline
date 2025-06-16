@@ -1,6 +1,4 @@
 # <ins> Pinterest Data Pipeline </ins>
-Currently not focused on this project as of current!
-
 ## Infrastructure
 Firstly, I got my hands on some infrastructure similar to that which I would be working with were I a data engineer working at Pinterest.
 
