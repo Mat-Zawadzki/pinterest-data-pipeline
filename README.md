@@ -1,4 +1,7 @@
 # <ins> Pinterest Data Pipeline </ins>
+## SECURITY NOTES
+Please note that the key pair file was left in the repository intentionally, as the associated EC2 machine is no longer active or accessible. This does not pose a security risk.
+
 ## Infrastructure
 Firstly, I got my hands on some infrastructure similar to that which I would be working with were I a data engineer working at Pinterest.
 
