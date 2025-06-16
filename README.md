@@ -4,7 +4,7 @@
 > NOTE: I have recently gone over this repository to clean it up. 
 > The key pair file was left in the repository intentionally, as the associated EC2 machine is no longer active or accessible. This does not pose a security risk.
 > 
-> NOTE: This is the capstone project which AiCore students complete at the end of their Data Engineering training course, which I helped design the architecture and code for. 
+> NOTE: This is the capstone project which AiCore students complete at the end of their Data Engineering training course. 
 > The Databricks-based code (all of the Spark cleaning and processing) has not been included in this repo, to avoid plagiarism.
 
 ## Overview
