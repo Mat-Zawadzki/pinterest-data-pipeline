@@ -1,5 +1,5 @@
-## SECURITY NOTES
-Please note that the key pair file was left in the repository intentionally, as the associated EC2 machine is no longer active or accessible. This does not pose a security risk.
+> ## SECURITY NOTES
+> Please note that the key pair file was left in the repository intentionally, as the associated EC2 machine is no longer active or accessible. This does not pose a security risk.
 
 # Pinterest Data Processing Pipeline
 
